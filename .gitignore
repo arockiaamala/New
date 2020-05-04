@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/WebApplication/.vs/WebApplication/v16
+/WebApplication/obj
